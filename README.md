@@ -1,5 +1,5 @@
 # TextSummarizer
-1.  Create a Vocabulary using `moby.txt`
+1.  Create a Vocabulary using Input Text one wants to summarize.
 2.  Create a Word_frequency Dict and Normailize it Either by Dividing the `word_freq` by total or Max value.
 
 # Sent_Score
